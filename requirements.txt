@@ -1,0 +1,9 @@
+numpy==1.24.4
+fastapi
+uvicorn
+pandas
+scikit-learn
+mlflow
+evidently==0.3.2
+joblib
+pytest
